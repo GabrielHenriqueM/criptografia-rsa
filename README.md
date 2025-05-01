@@ -1,4 +1,4 @@
-#🔐 Projeto de Criptografia Assimétrica com RSA em Python
+🔐 Projeto de Criptografia Assimétrica com RSA em Python
 
 Este projeto apresenta a implementação de um sistema de **criptografia assimétrica** utilizando o algoritmo **RSA (Rivest-Shamir-Adleman)**. O objetivo é permitir a **cifragem e decifragem de mensagens de texto** com segurança, utilizando um par de chaves (pública e privada).
 
